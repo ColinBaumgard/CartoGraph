@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/colin/Documents/ENSTA/C++/CartoGraph/src/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+vector
+-
+algorithm
+-
+map
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Triangulation_2.h
+-
+fstream
+-
+

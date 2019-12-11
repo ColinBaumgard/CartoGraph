@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -Wall -Wextra -std=c++14 -g   CMakeFiles/carto_exe.dir/src/main.cpp.o  -o carto_exe /usr/lib/x86_64-linux-gnu/libCGAL.so.13.0.1 /usr/lib/x86_64-linux-gnu/libgmp.so /usr/lib/x86_64-linux-gnu/libgmpxx.so /usr/lib/x86_64-linux-gnu/libmpfr.so 

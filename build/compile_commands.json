@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/colin/Documents/ENSTA/C++/CartoGraph/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/colin/Documents/ENSTA/C++/CartoGraph/src  -Wall -Wextra -std=c++14 -g   -o CMakeFiles/carto_exe.dir/src/main.cpp.o -c /home/colin/Documents/ENSTA/C++/CartoGraph/src/main.cpp",
+  "file": "/home/colin/Documents/ENSTA/C++/CartoGraph/src/main.cpp"
+}
+]
